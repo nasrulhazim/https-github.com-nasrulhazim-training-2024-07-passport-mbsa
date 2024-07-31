@@ -31,5 +31,5 @@ php artisan passport:client
  > Chirper App
 
  Where should we redirect the request after authorization? [http://localhost/auth/callback]:
- > http://127.0.0.1:80001/oauth/callback
+ > http://127.0.0.1:8001/oauth/callback
  ```
